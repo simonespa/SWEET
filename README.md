@@ -1,4 +1,10 @@
-# SWEET GWT
+# SWEET
+
+MicroWSMO Editor, also known as SWEET (**S**emantis **W**eb s**E**rvice **E**diting **T**ool) - see http://sweet.kmi.open.ac.uk.
+
+This editor has been built in Java using [GWT](http://www.gwtproject.org/) and "gxt" today known under the name of [Sencha GXT](https://www.sencha.com/products/gxt/).
+
+This web editor enables semantic annotations of RESTful services. I've written it as part of my Bachelor's degree thesis and prototype in 2009 at the KMI of the Open University UK.
 
 ## Dependencies
 
