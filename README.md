@@ -6,6 +6,8 @@ This editor has been built in Java using [GWT](http://www.gwtproject.org/) and "
 
 This web editor enables semantic annotations of RESTful services. I've written it as part of my Bachelor's degree thesis and prototype in 2009 at the KMI of the Open University UK.
 
+The development of the app is based upon work partially supported by the EU funding under the project SOA4All (FP7 - 215219) - https://cordis.europa.eu/project/id/215219.
+
 ## Dependencies
 
 * Tidy.jar
