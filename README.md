@@ -1,6 +1,6 @@
 # SWEET
 
-MicroWSMO Editor, also known as SWEET (**S**emantis **W**eb s**E**rvice **E**diting **T**ool) - see http://sweet.kmi.open.ac.uk.
+MicroWSMO Editor, also known as SWEET (**S**emantic **W**eb s**E**rvice **E**diting **T**ool) - see http://sweet.kmi.open.ac.uk.
 
 This editor has been built in Java using [GWT](http://www.gwtproject.org/) and "gxt" today known under the name of [Sencha GXT](https://www.sencha.com/products/gxt/).
 
